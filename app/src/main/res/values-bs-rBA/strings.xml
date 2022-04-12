@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorRaic</string>
+    <string name="calculate">Okreni</string>
+    <string name="investText">"Bačeno: "</string>
+    <string name="starting_amount">Početno</string>
+    <string name="years">Godine</string>
+    <string name="return_rate">Posto vraćanja</string>
+    <string name="contributions">Baciti još</string>
+    <string name="theme">Boje</string>
+    <string name="fontView">Veličina slova</string>
+</resources>

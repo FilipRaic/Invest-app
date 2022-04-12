@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KalkulatorRaic</string>
+    <string name="calculate">Calculate</string>
+    <string name="investView" translatable="false" />
+    <string name="investText">"Invested: "</string>
+    <string name="starting_amount">Starting amount</string>
+    <string name="years">Years</string>
+    <string name="return_rate">Return rate</string>
+    <string name="contributions">Contributions</string>
+    <string name="theme">Theme</string>
+    <string name="fontView">Font size</string>
+</resources>
